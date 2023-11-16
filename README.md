@@ -2,7 +2,7 @@
 Decode / Encode Samsung Note 8 (SM-N950N) csc files
 
 ## How To Use
-Download the latest jar file [here](https://github.com/fei-ke/OmcTextDecoder/releases)
+Download the latest jar file [here](https://github.com/ravindu644/OmcTextDecoder/releases/tag/0.4)
 
 deocode
 
